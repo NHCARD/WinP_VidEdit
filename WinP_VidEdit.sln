@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinP_VidEdit", "WinP_VidEdit\WinP_VidEdit.csproj", "{BD236266-84E9-4056-9E96-48CEE404044D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD236266-84E9-4056-9E96-48CEE404044D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD236266-84E9-4056-9E96-48CEE404044D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD236266-84E9-4056-9E96-48CEE404044D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BD236266-84E9-4056-9E96-48CEE404044D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD236266-84E9-4056-9E96-48CEE404044D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD236266-84E9-4056-9E96-48CEE404044D}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {437F3F15-2CB7-4043-984B-6FB7EA515670}
+	EndGlobalSection
+EndGlobal
